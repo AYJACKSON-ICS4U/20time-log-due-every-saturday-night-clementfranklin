@@ -1,0 +1,1 @@
+This week i worked on starting the itital build of the music player making the google api work with the code that i am implementing
